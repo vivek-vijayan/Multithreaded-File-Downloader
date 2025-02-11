@@ -1,0 +1,3 @@
+/Users/vivekvijayan/Documents/Git Workouts/Multithreaded-File-Downloader/MultithreadedFileDownloader/CMakeFiles/downloader.dir
+/Users/vivekvijayan/Documents/Git Workouts/Multithreaded-File-Downloader/MultithreadedFileDownloader/CMakeFiles/edit_cache.dir
+/Users/vivekvijayan/Documents/Git Workouts/Multithreaded-File-Downloader/MultithreadedFileDownloader/CMakeFiles/rebuild_cache.dir
